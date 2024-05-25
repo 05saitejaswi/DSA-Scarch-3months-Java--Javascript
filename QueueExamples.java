@@ -1,3 +1,4 @@
+import java.util.ArrayDeque;
 import  java.util.Queue;
 public class QueueExamples{
   public static void main(String[] args){
